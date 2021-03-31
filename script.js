@@ -7,7 +7,7 @@ redCarImg.src = "img/red_car.png";
 const blueCarImg = new Image();
 blueCarImg.src = "img/blue_car.png";
 const yellowCarImg = new Image();
-yellowCarImg.src = "img/yellow-car.png";
+yellowCarImg.src = "img/white_car.png";
 /// background race
 const backgroundImg = new Image();
 backgroundImg.src = "img/race.jpg";
